@@ -8,6 +8,8 @@
 
 ✅ **Todo:**
 
+- [ ] Install the font of the main button locally.
+
 - [ ] Change the font and font size of the popup and the success box to make it more _aesthetic_ and _reable_.
 
 - [ ] Add one more breakpoint for mobile or tablet devices.
